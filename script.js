@@ -37,6 +37,6 @@ $(document).ready(function() {
            }
         });
     }
-getChannelInfo("freecodecamp");
-isOnline("freecodecamp");
+getChannelInfo("imaqtpie");
+isOnline("imaqtpie");
 });
